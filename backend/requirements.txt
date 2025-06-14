@@ -1,0 +1,11 @@
+flask
+flask-session
+flask-cors
+spotipy
+requests
+textblob
+nltk
+pandas
+scikit-learn
+python-dotenv
+
